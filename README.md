@@ -5,13 +5,13 @@
 // COMMANDS
 
 // Creating A Movie:
-// node src/app.js --addM --title "John Wick 3"
+// node src/app.js --add --title "John Wick 3"
 
 // Listing A Movie:
-// node src/app.js --listM
+// node src/app.js --list
 
 // Deleting A Movie:
-// node src/app.js --deleteM --title "John Wick 3"
+// node src/app.js --delete --title "John Wick 3"
 
 // Updating A Movie:
-// node src/app.js --updateM --title "John Wick 3" --newTitle "Nobody"
+// node src/app.js --update --title "John Wick 3" --newTitle "Nobody"
